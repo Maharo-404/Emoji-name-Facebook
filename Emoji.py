@@ -25,8 +25,8 @@ logo=f'''
 '    ╚══════╝╚═╝     ╚═╝ ╚═════╝  ╚════╝ ╚═╝╚══════╝   {S}'''
 
 # Fampidirana ny rohy FB sy ny Version
-{jj}'fb_link = "https://www.facebook.com/profile.php?id=61583439715339" 
-{bb}'version = "Versions 1.0"
+fb_link = "https://www.facebook.com/profile.php?id=61583439715339" 
+version = "Versions 1.0"
 
 def clear():
     os.system('clear' if 'linux' in sys.platform.lower() else 'cls')
